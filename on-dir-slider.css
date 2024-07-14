@@ -1,5 +1,6 @@
 .one-dir-slider,
-.text-slider {
+.text-slider,
+.bullet {
   --animation-duration: 700;
   --styled-animation-duration: calc(var(--animation-duration) * 1ms);
 }
